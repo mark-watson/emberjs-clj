@@ -1,6 +1,6 @@
 # emberjs-clj
 
-Mark Watson March 11, 2013
+Mark Watson March 11, 2013.  Updated 2013/12/23: updated to Ember.js 1.2.0
 
 A simple Ember.js and Clojure web app template - a minimal example of making a REST call from Ember.js back to Clojure.
 
