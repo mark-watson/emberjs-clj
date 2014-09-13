@@ -1,6 +1,12 @@
 # emberjs-clj
 
-Mark Watson March 11, 2013.  Updated 2013/12/23: updated to Ember.js 1.2.0
+Mark Watson March 11, 2013.
+
+## History
+
+Updated 2014/9/33: updated to Ember.js 1.7.0 and Clojure 1.6. TBD: Using noir - should convert to straight up compujure app.
+
+Updated 2013/12/23: updated to Ember.js 1.2.0
 
 A simple Ember.js and Clojure web app template - a minimal example of making a REST call from Ember.js back to Clojure.
 
