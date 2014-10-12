@@ -29,6 +29,6 @@ lein deps
 
 lein run
 
-Then hit the URI:  http://localhost:6066/index.html
+Then hit the URI:  http://localhost:6066
 
 
