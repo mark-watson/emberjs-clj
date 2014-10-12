@@ -4,6 +4,8 @@ Mark Watson March 11, 2013.
 
 ## History
 
+Updated 2014/10/12: removed the use of the old noir library and made this a straight-up compojure app. I also changed the JavaScript Ember.js application to remove two deprecation warnings.
+
 Updated 2014/9/33: updated to Ember.js 1.7.0 and Clojure 1.6. TBD: Using noir - should convert to straight up compujure app.
 
 Updated 2013/12/23: updated to Ember.js 1.2.0

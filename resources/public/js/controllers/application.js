@@ -1,7 +1,7 @@
 RecipeTracker.ApplicationController = Ember.Controller.extend();
 
 RecipeTracker.recipesController = Ember.ArrayController.createWithMixins({
-    content: [],
+    model: [],
     addItem: function(item) {
         this.addObject(item);
     }});

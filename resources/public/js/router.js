@@ -5,5 +5,3 @@ RecipeTracker.Router = Ember.Router.extend({
     })
   })
 })
-
-RecipeTracker.initialize();
