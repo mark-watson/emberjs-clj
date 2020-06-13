@@ -31,4 +31,6 @@ lein run
 
 Then hit the URI:  http://localhost:6066
 
+## Donate on Patreon to support all of my projects
 
+Please visit [https://www.patreon.com/markwatson](https://www.patreon.com/markwatson) and sign up to donate $1/month
